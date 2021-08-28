@@ -1,0 +1,13 @@
+{"intents":[
+    {"tag":"greetings",
+    "patterns":["hello","hey","hi","good day","greetings","what's up?","How is it going?"],
+    "responses":["Hello!","Hey!","what can i do for you?"]},
+    {"tag":"goodbye",
+    "patterns":["cya","see you later","goodbye","I am leaving","have a good day","bye","see ya"],
+    "responses":["sad to see you go :(","Talk to you later","Goodbye"]
+    },{
+    "tag":"name",
+    "patterns":["what is your name", "what should i call you","what's your name","who are you?"],
+    "responses":["i'm Neural","call me Neural, i was programmed to destroy humans ;)"]
+    }
+]}
